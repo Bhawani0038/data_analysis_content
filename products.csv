@@ -1,0 +1,51 @@
+Sale_ID,Order_Date,Product_Name,Category,Sub_Category,Brand,Customer_Type,City,State,Quantity,Unit_Price,Discount (%),Sales_Amount,Payment_Mode
+S1001,05-01-2026,iPhone 16,Electronics,Smartphones,Apple,Retail,Jaipur,Rajasthan,2,79999,5,151998.1,Credit Card
+S1002,07-01-2026,Galaxy S25,Electronics,Smartphones,Samsung,Retail,Delhi,Delhi,1,74999,10,67499.1,UPI
+S1003,09-01-2026,Inspiron 15,Electronics,Laptops,Dell,Corporate,Mumbai,Maharashtra,5,58999,12,259595.6,Bank Transfer
+S1004,10-01-2026,Air Conditioner 1.5 Ton,Home Appliances,Air Conditioners,LG,Retail,Ahmedabad,Gujarat,2,42999,8,79198.16,Debit Card
+S1005,12-01-2026,Double Door Refrigerator,Home Appliances,Refrigerators,Whirlpool,Retail,Indore,Madhya Pradesh,1,36999,15,31449.15,EMI
+S1006,13-01-2026,Office Chair,Furniture,Chairs,Godrej,Corporate,Pune,Maharashtra,12,5499,10,59389.2,Bank Transfer
+S1007,15-01-2026,Study Table,Furniture,Tables,Nilkamal,Retail,Lucknow,Uttar Pradesh,3,7999,5,22797.15,Cash
+S1008,18-01-2026,Men's Running Shoes,Fashion,Footwear,Nike,Retail,Bengaluru,Karnataka,4,4999,20,15996.8,UPI
+S1009,19-01-2026,Women's Handbag,Fashion,Bags,Lavie,Retail,Chandigarh,Chandigarh,6,2499,15,12744.9,Credit Card
+S1010,20-01-2026,Basmati Rice 10kg,Grocery,Rice,India Gate,Wholesale,Jaipur,Rajasthan,20,999,5,18981,Cash
+S1011,22-01-2026,Sunflower Oil 5L,Grocery,Cooking Oil,Fortune,Wholesale,Bhopal,Madhya Pradesh,15,899,8,12406.2,UPI
+S1012,24-01-2026,Green Tea,Grocery,Beverages,Tata Tea,Retail,Delhi,Delhi,10,349,5,3315.5,Debit Card
+S1013,25-01-2026,Cricket Bat,Sports,Cricket,SG,Retail,Kanpur,Uttar Pradesh,8,2999,10,21592.8,Credit Card
+S1014,26-01-2026,Football,Sports,Football,Nivia,School,Patna,Bihar,15,899,12,11866.8,Bank Transfer
+S1015,28-01-2026,Yoga Mat,Sports,Fitness,Adidas,Retail,Hyderabad,Telangana,7,1299,10,8183.7,UPI
+S1016,29-01-2026,Cotton T-Shirt,Fashion,Clothing,Puma,Retail,Chennai,Tamil Nadu,10,999,25,7492.5,Cash
+S1017,01-02-2026,Microwave Oven,Home Appliances,Kitchen Appliances,IFB,Retail,Kochi,Kerala,2,13999,7,26038.14,EMI
+S1018,02-02-2026,"LED Smart TV 55""",Electronics,Televisions,Sony,Retail,Surat,Gujarat,2,64999,10,116998.2,Credit Card
+S1019,03-02-2026,Wireless Mouse,Electronics,Accessories,Logitech,Corporate,Noida,Uttar Pradesh,25,999,15,21228.75,Bank Transfer
+S1020,05-02-2026,Printer,Electronics,Printers,HP,Corporate,Gurugram,Haryana,6,12999,12,68634.72,Bank Transfer
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,No.,Question,,,,,,,,,,,
+,1,Find the total number of sales transactions in the dataset.,,,,,,,,,,,
+,2,Find the total number of products/sale records using the Sale_ID column.,,,,,,,,,,,
+,3,Count how many sales transactions belong to the Electronics category.,,,,,,,,,,,
+,4,Count how many sales transactions were made by Retail customers.,,,,,,,,,,,
+,5,Count how many transactions used UPI as the payment mode.,,,,,,,,,,,
+,6,Count how many Electronics sales were made by Corporate customers.,,,,,,,,,,,
+,7,Count how many sales were made in Rajasthan using Cash payment.,,,,,,,,,,,
+,8,Count the number of transactions where the Quantity is greater than 10.,,,,,,,,,,,
+,9,Calculate the total Sales Amount from all transactions.,,,,,,,,,,,
+,10,Calculate the total Sales Amount for the Electronics category.,,,,,,,,,,,
+,11,Calculate the total Sales Amount for Retail customers.,,,,,,,,,,,
+,12,Calculate the total Sales Amount for sales made in Rajasthan.,,,,,,,,,,,
+,13,Calculate the total Sales Amount for Electronics products sold to Corporate customers.,,,,,,,,,,,
+,14,Calculate the total Sales Amount for transactions where the Payment Mode is UPI.,,,,,,,,,,,
+,15,Calculate the total Sales Amount for Retail customers in Delhi.,,,,,,,,,,,
+,16,Find the maximum Sales Amount among all transactions.,,,,,,,,,,,
+,17,Find the maximum Sales Amount for Electronics products.,,,,,,,,,,,
+,18,Find the maximum Sales Amount for Retail customers.,,,,,,,,,,,
+,19,Find the minimum Sales Amount for Grocery products.,,,,,,,,,,,
+,20,Calculate the average Sales Amount for Electronics products.,,,,,,,,,,,
