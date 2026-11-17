@@ -1,4 +1,1 @@
-https://zoom.us/j/98634058529?pwd=o2OBgacKDyK5jbvx6apEoNpDJ400HT.1
-
-
-wsb_237 : https://zoom.us/j/98634058529?pwd=o2OBgacKDyK5jbvx6apEoNpDJ400HT.1
+https://zoom.us/j/99837915450?pwd=rXuDpdMpsV787PT64giIZRadIDnOmL.1  WSB_221_17noVEMBER_cLASS_LINK
